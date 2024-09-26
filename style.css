@@ -39,3 +39,14 @@ h1, h2{
 p{
     color: #573A37;
 }
+
+footer{
+    text-align: center; 
+    color:#F0E8C2;
+    padding-bottom: 48px;
+    vertical-align: center;
+}
+
+img{
+    vertical-align: middle;
+}
